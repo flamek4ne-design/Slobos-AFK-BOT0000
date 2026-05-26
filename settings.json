@@ -6,10 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Flamek4ne.aternos.me
-",
+    "ip": "Flamek4ne.aternos.me",
     "port": 12919,
-    "version": "1.21.1"
+    "version": "1.21.4"
   },
   "position": {
     "enabled": true,
